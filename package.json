@@ -1,0 +1,24 @@
+{
+  "name": "thrivetalk",
+  "version": "1.0.0",
+  "description": "Thrivetalk project. HTML, css, js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sych95/Thrivetalk.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Sych95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sych95/Thrivetalk/issues"
+  },
+  "homepage": "https://github.com/Sych95/Thrivetalk#readme"
+}
